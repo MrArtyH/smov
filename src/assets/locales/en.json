@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "ArtyFlix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. ArtyFlix.lol runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+    "description": "ArtyFlix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. ArtyFlix runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
     "faqTitle": "Common questions",
     "q1": {
       "body": "ArtyFlix does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by ArtyFlix, everything is through this searching mechanism.",
@@ -134,14 +134,14 @@
         "default": "What do you want to watch?",
         "extra": [
           "What are you in the mood for?",
-          "Should we delete your browser history?",
+          "I saw your browser history... I'm not mad, just dissapointed...",
           "What do you want to stream?",
           "ArtyFlix is the best site ever!",
           "What's on your watchlist today?",
           "How was your day?",
           "My bad the site never works...",
           "Isn't ArtyFlix just the best?",
-          ">ᴗ<"
+          "If you read this, you're gay :3"
         ]
       },
       "empty": {
@@ -150,7 +150,8 @@
           "There's nothing here :(",
           "So empty...",
           "Such emptiness.",
-          "Hi new user :3"
+          "Hi new user :3",
+          "Hello darkness my old friend..."
         ]
       },
       "sectionTitle": "Search results",
@@ -163,7 +164,8 @@
         "extra": ["Have you seen Blazing Saddles?"],
         "extra": ["Welcome to ArtyFlix!"],
         "extra": [" /ᐠ>ヮ<ᐟ\\ฅ"],
-        "extra": ["Viva la ArtyFlix!"]
+        "extra": ["Viva la ArtyFlix!"],
+        "extra": ["Incase you read this, you're gay :3"]
       },
       "morning": {
         "default": "What would you like to watch this morning?",
@@ -174,9 +176,9 @@
       },
       "night": {
         "default": "What would you like to watch tonight?",
-        "extra": ["Rick & Morty is great with friends!"],
-        "extra": ["Go smoke and watch The Simpsons!"],
-        "extra": ["(づ ᴗ _ᴗ)づ♡"],
+        "extra": ["Instead of Netflix and chill, how about we ArtyFlix and chill?"],
+        "extra": ["MOVIE NIIIIIGHHHTTT!"],
+        "extra": ["Don't stay up too late! (Or do, I'm a message, not your parent.)"],
         "extra": ["Viva la ArtyFlix!"]
       },
       "420": {
@@ -214,13 +216,13 @@
     "badge": "Not found",
     "goHome": "Back to home",
     "reloadButton": "Try again",
-    "message": "We looked everywhere: under the bins, in the closet, behind the proxy but ultimately couldn't find the page you are looking for. (ಥ﹏ಥ)",
+    "message": "We checked in all the places, but we couldn't find anything ;(",
     "title": "Couldn't find that page"
   },
   "downtimeNotice": {
     "badge": "Issues",
     "goHome": "Go home",
-    "message": "ArtyFlix.lol is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
+    "message": "sudo.artyh.online is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
     "timeFrame": "<bold>March 31th 11:00 PM - 5:00 AM EST</bold>",
     "title": "Provider issues"
   },
@@ -640,7 +642,7 @@
       "backgroundLabel": "Background opacity",
       "backgroundBlurLabel": "Background blur",
       "colorLabel": "Color",
-      "previewQuote": "Would you rather have a thot daughter or a gay son? 🤔",
+      "previewQuote": "Erm, what the sigma?",
       "textSizeLabel": "Text size",
       "title": "Subtitles",
       "textBoldLabel": "Bold text"

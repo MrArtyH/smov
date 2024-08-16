@@ -22,7 +22,7 @@
       "title": "Hvordan kan jeg finde ud af mere?"
     },
     "title": "Om ArtyFlix (^▽^)",
-    "description": "ArtyFlix er en variant af movie-web, som er sikret at forblive oppe, selv efter at movie-web.app er lukket ned. ArtyFlix.lol kører på en privat, selvhostet VPS. Jeg driver denne hjemmeside med underskud; der er ingen reklamer på grund af min tro på gratis medie."
+    "description": "ArtyFlix er en variant af movie-web, som er sikret at forblive oppe, selv efter at movie-web.app er lukket ned. sudo.artyh.online kører på en privat, selvhostet VPS. Jeg driver denne hjemmeside med underskud; der er ingen reklamer på grund af min tro på gratis medie."
   },
   "actions": {
     "copied": "Kopieret",
@@ -212,7 +212,7 @@
     "timeFrame": "<bold>31. marts kl. 23:00 - 5:00 EST</bold>",
     "goHome": "Gå til hjem",
     "title": "Problemer med udbydere",
-    "message": "ArtyFlix.lol har igen problemer med nogle udbydere. Hvis du ikke kan finde eller afspille et afsnit, skal du skifte kilde. Vi forventer, at denne fejl fortsætter i tidsrummet nedenfor."
+    "message": "sudo.artyh.online har igen problemer med nogle udbydere. Hvis du ikke kan finde eller afspille et afsnit, skal du skifte kilde. Vi forventer, at denne fejl fortsætter i tidsrummet nedenfor."
   },
   "onboarding": {
     "defaultConfirm": {

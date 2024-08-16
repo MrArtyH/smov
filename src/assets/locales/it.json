@@ -1,6 +1,6 @@
 {
   "about": {
-    "description": "ArtyFlix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. ArtyFlix.lol funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
+    "description": "ArtyFlix è un fork di movie-web che garantisce di rimanere attivo anche dopo la chiusura di movie-web.app. sudo.artyh.online funziona su un VPS privato e ospitato autonomamente. Gestisco questo sito in perdita; non ci sono annunci a causa della mia fede nei media liberi.",
     "faqTitle": "Domande comuni",
     "q1": {
       "body": "ArtyFlix non ospita alcun contento. Quando clicci su qualcosa da guardare, ArtyFlix cerca l'internet per media di vostra scelta (Sull schermata di caricamento e nell tab 'sorgenti video' si può vedere quale sorgente si sta utilizzando). I media non sono mai caricati da ArtyFlix, tutto è attraverso questo meccanismo di ricerca.",
@@ -442,7 +442,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Per favore dimostra la tua umanità completando il Captcha a destra. Questo serve a mantenere ArtyFlix.lol al sicuro!",
+      "description": "Per favore dimostra la tua umanità completando il Captcha a destra. Questo serve a mantenere sudo.artyh.online al sicuro!",
       "error": "Impossibile verificare la vostra umanità! Riprova.",
       "title": "Sei un Robot 🤖?",
       "verifyingHumanity": "Verificando la tua umanità... (^▽^)👍"
@@ -613,7 +613,7 @@
     }
   },
   "downtimeNotice": {
-    "message": "ArtyFlix.lol sta riscontrando problemi con alcuni provider, se non riesci a trovare o riprodurre uno show, cambia la fonte. È previsto che questo errore persista durante i tempi indicati di seguito.",
+    "message": "sudo.artyh.online sta riscontrando problemi con alcuni provider, se non riesci a trovare o riprodurre uno show, cambia la fonte. È previsto che questo errore persista durante i tempi indicati di seguito.",
     "badge": "Problemi",
     "goHome": "Vai alla pagina iniziale",
     "timeFrame": "<bold>31 Marzo 5:00 - 11:00 </bold>",
